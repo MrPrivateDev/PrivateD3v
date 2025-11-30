@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrivateD3v
 - 👀 I’m interested in web development, backend and data science
-- 🌱 I’m currently learning JavaScript / React / Node.js
+- 🌱 I’m currently learning C++ / Game Development
 - 💞️ I’m looking to collaborate on some learning projects
 - 📫 How to reach me:
   - Steam: https://steamcommunity.com/profiles/76561198421457908/
