@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrivateD3v
+- 👋 Hi, I’m @MrPrivateDev
 - 👀 I’m interested in web development, backend and data science
 - 🌱 I’m currently learning C++ / Python / Web Development
 - 💞️ I’m looking to collaborate on some learning projects
